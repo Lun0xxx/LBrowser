@@ -26,3 +26,7 @@ Once that's done, create a Qt C++ project and drag the files into it.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Preview for macOS**
+![Preview for macOS](macOS_preview.png)
+
+**Preview for Windows**
+![Preview for Windows](w10_preview.png)
